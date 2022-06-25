@@ -1,12 +1,3 @@
-.line-through {
-  text-decoration: line-through;
-  font-weight: bold;
-  color: rgb(45, 250, 45);
-}
-
-.bold {
-  font-weight: bold;
-}
-.italic {
-  font-style: italic;
+.App {
+  text-align: center;
 }
